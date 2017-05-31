@@ -10133,6 +10133,10 @@
 				<roll>-1.560547670932259</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
+			<TimeSpan>
+				<begin>0212</begin>
+				<end>0212-12-31T23:59:59Z</end>
+			</TimeSpan>
 			<styleUrl>#msn_yuanshu0331</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -11316,6 +11320,10 @@
 				<roll>-1.560546862845428</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
+			<TimeSpan>
+				<begin>0201</begin>
+				<end>0201-12-31T23:59:59Z</end>
+			</TimeSpan>
 			<styleUrl>#msn_yuanshu030</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
